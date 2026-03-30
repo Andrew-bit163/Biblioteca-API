@@ -4,6 +4,4 @@ Para executar o código, você deve abrir o terminal e utilizar o código "fasta
 
 
 
-Feito por:
- Andrew Bezerra Barreto
- Philipi Oliveira de Camargo Montini
+
